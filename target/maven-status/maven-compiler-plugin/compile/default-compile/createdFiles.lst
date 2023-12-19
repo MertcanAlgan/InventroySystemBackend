@@ -1,0 +1,15 @@
+com/example/stoktakip/demirbas/DemirbasService.class
+com/example/stoktakip/personel/PersonelService.class
+com/example/stoktakip/demirbas/DemirbasRepository.class
+com/example/stoktakip/admin/AdminService.class
+com/example/stoktakip/StokTakipApplication.class
+com/example/stoktakip/demirbas/DemirbasController.class
+com/example/stoktakip/admin/AdminController.class
+com/example/stoktakip/personel/Personel.class
+com/example/stoktakip/personel/PersonelController.class
+com/example/stoktakip/demirbas/Demirbas.class
+com/example/stoktakip/personel/PersonelRepository.class
+com/example/stoktakip/config/CrossOriginConfig.class
+com/example/stoktakip/admin/Admin.class
+com/example/stoktakip/admin/AdminConfig.class
+com/example/stoktakip/admin/AdminRepository.class
